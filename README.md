@@ -1,4 +1,4 @@
-## Yo 👋
+## Yo 👋☕
 
-My name is brine and i like games.
-i'm learning c++
+My name is Brine and i like games.
+I'm learning c++, python
