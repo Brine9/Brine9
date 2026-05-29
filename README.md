@@ -1,4 +1,6 @@
 ## Yo 👋☕
 
 My name is Brine and i like games.
-I'm learning c++, python
+I'm learning c++, python.
+
+I am a brazillian.
