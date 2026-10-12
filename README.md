@@ -1,4 +1,7 @@
 ## Hello.
 
 My name is Brine and i like games.
-I'm currently learning German 16/07/2026.
+
+Objectives:
+Learn ton of useful things
+Learning German since 16/07/2026.
