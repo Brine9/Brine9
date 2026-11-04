@@ -1,7 +1,5 @@
 ## Hello.
 
-My name is Brine and i like games.
+Name's Brine. I like learning stuff, like languages. 
 
-Objectives:
-Learn ton of useful things
-Learning German since 16/07/2026.
+Ich studiere Deutsch, Franzoesisch, Spanisch. Ich will auch Programmiersprachen lernen.
